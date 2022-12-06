@@ -27,6 +27,7 @@
 ⚡️ Easy to modify
 
 ## Installation & Deployment 📦
+- hulelelchnage
 - Clone the repository and modify the content of <b>index.html</b> according to your requirement.
 - Add or remove images from `varadbhogayata.github.io/assets/img/` directory as per your requirement.
 - I highly recommend to use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to deploy the website the EASIEST WAY.
