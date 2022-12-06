@@ -1,7 +1,7 @@
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
-> https://varadbhogayata.github.io
+> https://Kartik-Agra-wal.github.io
 
 ![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io) 
 ![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/varadbhogayata.github.io)
@@ -27,7 +27,6 @@
 ⚡️ Easy to modify
 
 ## Installation & Deployment 📦
-- hulelelchnage
 - Clone the repository and modify the content of <b>index.html</b> according to your requirement.
 - Add or remove images from `varadbhogayata.github.io/assets/img/` directory as per your requirement.
 - I highly recommend to use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to deploy the website the EASIEST WAY.
