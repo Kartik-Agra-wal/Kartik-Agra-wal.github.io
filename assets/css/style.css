@@ -356,7 +356,7 @@ h3 {
 }
 
 .overlay {
-  background-color: rgba(230, 255, 2, 0.884);
+  background-color: rgba(8, 8, 8, 0.884);
   height: 100%;
   left: 0;
   position: absolute;
