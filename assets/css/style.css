@@ -200,7 +200,7 @@ nav i {
 } */
 
 main {
-  background: url(../../assets/img/bg1.png);
+  background: url(../../assets/img/bg2.png) repeat;
   padding-left: 190px;
 }
 
