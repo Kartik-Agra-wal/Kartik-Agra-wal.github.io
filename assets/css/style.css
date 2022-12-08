@@ -202,8 +202,8 @@ nav i {
 main {
   /* background: url(../../assets/img/bg2.png) no-repeat; */
   background-image:  linear-gradient(30deg, #000000 12%, transparent 12.5%, transparent 87%, #000000 87.5%, #000000), linear-gradient(150deg, #000000 12%, transparent 12.5%, transparent 87%, #000000 87.5%, #000000), linear-gradient(30deg, #000000 12%, transparent 12.5%, transparent 87%, #000000 87.5%, #000000), linear-gradient(150deg, #000000 12%, transparent 12.5%, transparent 87%, #000000 87.5%, #000000), linear-gradient(60deg, rgba(0,0,0,0.5) 25%, transparent 25.5%, transparent 75%, rgba(0,0,0,0.5) 75%, rgba(0,0,0,0.5)), linear-gradient(60deg, rgba(0,0,0,0.5) 25%, transparent 25.5%, transparent 75%, rgba(0,0,0,0.5) 75%, rgba(0,0,0,0.5));
-  background-size: 64px 112px;
-  background-position: 0 0, 0 0, 32px 56px, 32px 56px, 0 0, 32px 56px;
+  background-size: 20px 35px;
+  background-position: 0 0, 0 0, 10px 17.5px, 10px 17.5px, 0 0, 10px 17.5px;
   background-color: #880cab;
   padding-left: 190px;
 }
