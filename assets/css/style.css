@@ -148,6 +148,22 @@
 }
 /* main body */
 
+
+
+.large-header {
+	position: relative;
+	width: 100%;
+	background: #888;
+	overflow: hidden;
+	background-size: cover;
+	background-position: center center;
+	z-index: 1;
+}
+
+#large-header {
+	background-image: url('https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/img/demo-1-bg.jpg');
+}
+
 /* body-color */
 
 body {
