@@ -201,10 +201,10 @@ nav i {
 
 main {
   /* background: url(../../assets/img/bg2.png) no-repeat; */
-  background-image:  linear-gradient(30deg, #000000 12%, transparent 12.5%, transparent 87%, #000000 87.5%, #000000), linear-gradient(150deg, #000000 12%, transparent 12.5%, transparent 87%, #000000 87.5%, #000000), linear-gradient(30deg, #000000 12%, transparent 12.5%, transparent 87%, #000000 87.5%, #000000), linear-gradient(150deg, #000000 12%, transparent 12.5%, transparent 87%, #000000 87.5%, #000000), linear-gradient(60deg, rgba(0,0,0,0.5) 25%, transparent 25.5%, transparent 75%, rgba(0,0,0,0.5) 75%, rgba(0,0,0,0.5)), linear-gradient(60deg, rgba(0,0,0,0.5) 25%, transparent 25.5%, transparent 75%, rgba(0,0,0,0.5) 75%, rgba(0,0,0,0.5));
+  background-image:  linear-gradient(30deg, #880cab 12%, transparent 12.5%, transparent 87%, #880cab 87.5%, #880cab), linear-gradient(150deg, #880cab 12%, transparent 12.5%, transparent 87%, #880cab 87.5%, #880cab), linear-gradient(30deg, #880cab 12%, transparent 12.5%, transparent 87%, #880cab 87.5%, #880cab), linear-gradient(150deg, #880cab 12%, transparent 12.5%, transparent 87%, #880cab 87.5%, #880cab), linear-gradient(60deg, rgba(136,12,171,0.5) 25%, transparent 25.5%, transparent 75%, rgba(136,12,171,0.5) 75%, rgba(136,12,171,0.5)), linear-gradient(60deg, rgba(136,12,171,0.5) 25%, transparent 25.5%, transparent 75%, rgba(136,12,171,0.5) 75%, rgba(136,12,171,0.5));
   background-size: 20px 35px;
   background-position: 0 0, 0 0, 10px 17.5px, 10px 17.5px, 0 0, 10px 17.5px;
-  background-color: #880cab;
+  background-color: #000000;
   padding-left: 190px;
 }
 
