@@ -243,8 +243,8 @@ nav i {
 } */
 
 main {
-  /* background: url(../../assets/img/bg2.png) no-repeat; */
-  background-image: url("https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/img/demo-1-bg.jpg");
+  /* background: url(../../assets/img/bg.png) no-repeat; */
+  background: url("https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/img/demo-1-bg.jpg");
 
   padding-left: 190px;
 }
